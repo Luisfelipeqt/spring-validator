@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/treinaweb-spring-topicos-avancados-1.0/tw-projetos.iml" filepath="$PROJECT_DIR$/treinaweb-spring-topicos-avancados-1.0/tw-projetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tw-spring-boot.iml" filepath="$PROJECT_DIR$/.idea/tw-spring-boot.iml" />
+    </modules>
+  </component>
+</project>
